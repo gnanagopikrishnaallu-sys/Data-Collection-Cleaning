@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,age,gender,salary,city,join_date,subscription_type,status
+101,John,Doe,25.0,Male,50000.0,New York,2023-01-15,Basic,Active
+102,Jane,Smith,31.0,Female,60000.0,London,2023-02-20,Premium,Active
+103,Robert,Johnson,30.0,Male,59000.0,Paris,2023-03-12,Basic,Inactive
+104,Emily,Davis,22.0,Female,45000.0,London,2023-04-05,Basic,Active
+105,Michael,Brown,45.0,Male,80000.0,Unknown,2023-05-18,Enterprise,Active
+106,Jessica,Wilson,31.0,Female,52000.0,Tokyo,2023-06-30,Basic,Pending
+107,David,Taylor,35.0,Male,67000.0,New York,2023-07-11,Premium,Active
+108,Sarah,Anderson,28.0,Female,51000.0,Paris,2023-08-22,Basic,Inactive
+109,James,Thomas,40.0,Male,59000.0,London,2023-09-09,Enterprise,Active
+110,Amanda,Jackson,29.0,Female,58000.0,Tokyo,2023-10-01,Basic,Active
+111,Daniel,White,32.0,Male,62000.0,Berlin,2023-10-15,Premium,Active
+112,Laura,Harris,27.0,Female,49000.0,Sydney,2023-10-20,Basic,Inactive
+113,Matthew,Martin,38.0,Male,75000.0,New York,2023-11-02,Enterprise,Active
+114,Megan,Thompson,31.0,Female,53000.0,Toronto,2023-11-12,Basic,Active
+115,Andrew,Garcia,26.0,Male,59000.0,Madrid,2023-11-18,Premium,Pending
+116,Rachel,Martinez,41.0,Female,82000.0,London,2023-12-01,Enterprise,Active
+117,Joshua,Robinson,24.0,Male,46000.0,Paris,2023-12-10,Basic,Active
+118,Hannah,Clark,33.0,Female,61000.0,Berlin,2023-12-22,Premium,Active
+119,Ryan,Rodriguez,29.0,Male,55000.0,Tokyo,2024-01-05,Basic,Inactive
+120,Kelly,Lewis,36.0,Female,69000.0,Sydney,2024-01-14,Premium,Active
+121,Brandon,Lee,23.0,Male,42000.0,New York,2024-01-25,Basic,Active
+122,Nicole,Walker,44.0,Female,85000.0,Toronto,2024-02-02,Enterprise,Active
+123,Justin,Hall,28.0,Male,52000.0,Madrid,2024-02-11,Basic,Active
+124,Samantha,Allen,34.0,Female,64000.0,London,2024-02-20,Premium,Pending
+125,Tyler,Young,39.0,Male,73000.0,Paris,2024-03-01,Enterprise,Active
+126,Brittany,Hernandez,25.0,Female,48000.0,Berlin,2024-03-10,Basic,Inactive
+127,Dylan,King,30.0,Male,59000.0,Tokyo,2024-03-18,Premium,Active
+128,Lauren,Wright,27.0,Female,51000.0,Sydney,2024-03-29,Basic,Active
+129,Austin,Lopez,42.0,Male,81000.0,New York,2024-04-04,Enterprise,Active
+130,Stephanie,Hill,31.0,Female,56000.0,Toronto,2024-04-15,Basic,Active
+131,Kevin,Scott,35.0,Male,68000.0,Madrid,2024-04-22,Premium,Inactive
+132,Victoria,Green,26.0,Female,49000.0,London,2024-05-02,Basic,Active
+133,Brian,Adams,37.0,Male,71000.0,Paris,2024-05-12,Enterprise,Active
+134,Erica,Baker,28.0,Female,53000.0,Berlin,2024-05-20,Basic,Active
+135,Jacob,Gonzalez,33.0,Male,63000.0,Tokyo,2024-06-01,Premium,Pending
+136,Christina,Nelson,40.0,Female,78000.0,Sydney,2024-06-11,Enterprise,Active
+137,Kyle,Carter,24.0,Male,45000.0,New York,2024-06-21,Basic,Active
+138,Amber,Mitchell,29.0,Female,57000.0,Toronto,2024-07-03,Premium,Inactive
+139,Zachary,Perez,32.0,Male,60000.0,Madrid,2024-07-14,Basic,Active
+140,Courtney,Roberts,36.0,Female,70000.0,London,2024-07-25,Enterprise,Active
+141,Eric,Turner,27.0,Male,50000.0,Paris,2024-08-02,Basic,Active
+142,Heather,Phillips,43.0,Female,84000.0,Berlin,2024-08-12,Enterprise,Active
+143,Stephen,Campbell,30.0,Male,58000.0,Tokyo,2024-08-22,Premium,Inactive
+144,Melissa,Parker,25.0,Female,47000.0,Sydney,2024-09-01,Basic,Active
+145,Aaron,Evans,38.0,Male,74000.0,New York,2024-09-10,Enterprise,Active
+146,Tiffany,Edwards,34.0,Female,65000.0,Toronto,2024-09-21,Premium,Active
+147,Adam,Collins,28.0,Male,52000.0,Madrid,2024-10-02,Basic,Pending
+148,Michelle,Stewart,31.0,Female,59000.0,London,2024-10-12,Premium,Active
+149,Nathan,Sanchez,26.0,Male,48000.0,Paris,2024-10-22,Basic,Active
+150,Kimberly,Morris,39.0,Female,76000.0,Berlin,2024-11-01,Enterprise,Inactive
+151,Patrick,Rogers,33.0,Male,64000.0,Tokyo,2024-11-11,Premium,Active
+152,Amy,Reed,29.0,Female,54000.0,Sydney,2024-11-20,Basic,Active
+153,Sean,Cook,41.0,Male,80000.0,New York,2024-12-01,Enterprise,Active
+154,Angela,Morgan,27.0,Female,51000.0,Toronto,2024-12-10,Basic,Active
+155,Jeremy,Bell,35.0,Male,67000.0,Madrid,2024-12-20,Premium,Pending
+156,Brenda,Murphy,30.0,Female,58000.0,London,2025-01-05,Basic,Inactive
+157,Christian,Bailey,24.0,Male,46000.0,Paris,2025-01-15,Basic,Active
+158,Emma,Rivera,37.0,Female,72000.0,Berlin,2025-01-25,Enterprise,Active
+159,Jesse,Cooper,28.0,Male,53000.0,Tokyo,2025-02-02,Premium,Active
+160,Catherine,Richardson,42.0,Female,83000.0,Sydney,2025-02-12,Enterprise,Active
+161,Benjamin,Cox,25.0,Male,49000.0,New York,2025-02-22,Basic,Active
+162,Christine,Howard,32.0,Female,61000.0,Toronto,2025-03-03,Premium,Inactive
+163,Roy,Ward,36.0,Male,69000.0,Madrid,2025-03-14,Enterprise,Active
+164,Debra,Torres,29.0,Female,55000.0,London,2025-03-24,Basic,Active
+165,Eugene,Peterson,34.0,Male,65000.0,Paris,2025-04-02,Premium,Active
+166,Virginia,Gray,27.0,Female,50000.0,Berlin,2025-04-12,Basic,Pending
+167,Ralph,Ramirez,39.0,Male,75000.0,Tokyo,2025-04-22,Enterprise,Active
+168,Janice,James,31.0,Female,59000.0,Sydney,2025-05-01,Premium,Active
+169,Carl,Watson,26.0,Male,48000.0,New York,2025-05-11,Basic,Inactive
+170,Marilyn,Brooks,40.0,Female,77000.0,Toronto,2025-05-21,Enterprise,Active
+171,Bryan,Kelly,33.0,Male,63000.0,Madrid,2025-06-01,Premium,Active
+172,Beverly,Sanders,28.0,Female,53000.0,London,2025-06-10,Basic,Active
+173,Louis,Price,38.0,Male,73000.0,Paris,2025-06-20,Enterprise,Active
+174,Diana,Bennett,30.0,Female,57000.0,Berlin,2025-07-01,Basic,Active
+175,Philip,Wood,25.0,Male,47000.0,Tokyo,2025-07-11,Basic,Pending
+176,Teresa,Barnes,35.0,Female,68000.0,Sydney,2025-07-21,Premium,Active
+177,Bobby,Ross,43.0,Male,85000.0,New York,2025-08-01,Enterprise,Inactive
+178,Doris,Henderson,29.0,Female,56000.0,Toronto,2025-08-11,Basic,Active
+179,Johnny,Coleman,32.0,Male,62000.0,Madrid,2025-08-21,Premium,Active
+180,Gloria,Jenkins,27.0,Female,51000.0,London,2025-09-01,Basic,Active
+181,Victor,Perry,36.0,Male,70000.0,Paris,2025-09-10,Enterprise,Active
+182,Evelyn,Powell,31.0,Female,60000.0,Berlin,2025-09-20,Premium,Inactive
+183,Martin,Long,24.0,Male,45000.0,Tokyo,2025-10-01,Basic,Active
+184,Jean,Patterson,39.0,Female,76000.0,Sydney,2025-10-11,Enterprise,Active
+185,Gerald,Hughes,28.0,Male,53000.0,New York,2025-10-21,Basic,Pending
+186,Cheryl,Flores,33.0,Female,64000.0,Toronto,2025-11-01,Premium,Active
+187,Keith,Washington,37.0,Male,71000.0,Madrid,2025-11-10,Enterprise,Active
+188,Mildred,Butler,30.0,Female,58000.0,London,2025-11-20,Basic,Active
+189,Samuel,Simmons,26.0,Male,49000.0,Paris,2025-12-01,Basic,Inactive
+190,Joan,Foster,41.0,Female,79000.0,Berlin,2025-12-11,Enterprise,Active
+191,Willie,Gonzales,34.0,Male,66000.0,Tokyo,2025-12-21,Premium,Active
+192,Judith,Bryant,29.0,Female,55000.0,Sydney,2026-01-05,Basic,Active
+193,Lawrence,Alexander,38.0,Male,74000.0,New York,2026-01-15,Enterprise,Active
+194,Rose,Russell,27.0,Female,52000.0,Toronto,2026-01-25,Basic,Pending
+195,Wayne,Griffin,32.0,Male,63000.0,Madrid,2026-02-04,Premium,Active
+196,Janice,Diaz,35.0,Female,67000.0,London,2026-02-14,Enterprise,Active
+197,Roy,Hayes,23.0,Male,43000.0,Paris,2026-02-24,Basic,Inactive
+198,Julia,Myers,30.0,Female,59000.0,Berlin,2026-03-05,Premium,Active
+199,Billy,Ford,44.0,Male,86000.0,Tokyo,2026-03-15,Enterprise,Active
+200,Grace,Hamilton,28.0,Female,54000.0,Sydney,2026-03-25,Basic,Active
